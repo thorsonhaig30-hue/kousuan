@@ -1,0 +1,6 @@
+{
+  "name": "口算训练器",
+  "description": "为儿童设计的极简美观口算训练器，包含100以内的加减乘除趣味练习。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
